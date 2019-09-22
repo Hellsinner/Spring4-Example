@@ -1,9 +1,0 @@
-.idea/
-*.iml
-*.iws
-target/
-
-# eclipse ignore
-.settings/
-.project
-.classpath
